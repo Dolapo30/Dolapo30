@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Dolapo Idowu 👋
 
-<!--
-**Dolapo30/Dolapo30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate DevOps Engineer with experience in CI/CD, cloud computing, and containerization. I specialize in optimizing infrastructure, implementing robust security practices, and enhancing deployment efficiency.
 
-Here are some ideas to get you started:
+## 🔭 Currently Working On
+- Improving CI/CD pipelines with Jenkins and GitHub Actions
+- Building scalable infrastructure solutions using Terraform and AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Learning
+- Advanced Kubernetes techniques
+- New tools in the DevOps ecosystem
+
+## 📫 How to Reach Me
+- [dolsidowu@gmail.com=]
+
+Feel free to explore my repositories and contribute to any projects that interest you!
